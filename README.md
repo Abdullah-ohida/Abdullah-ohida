@@ -26,7 +26,8 @@ I am Ismail Abdbullah 🙋, a Software Engineer, psychologist, Mathematician:
 
 ### Technologies
 <a href="https://www.gnu.org/"><img alt="GNU" src='https://simpleicons.org/icons/gnu.svg' width='30'/></a>
-<a href="https://en.wikipedia.org/wiki/HTML"><img alt="GNU" src='https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg' width='30'/></a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img alt="GNU" src='https://www.vectorlogo.zone/logos/html/html-icon.svg' width='30'/></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img alt="GNU" src='https://www.vectorlogo.zone/logos/css/css-icon.svg' width='30'/></a>
 <!--
 **Abdullah-ohida/Abdullah-ohida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
