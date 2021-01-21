@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **Abdullah-ohida/Abdullah-ohida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Ismail Abdbullah 🙋, a Software Engineer, psychologist, Mathematician:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
