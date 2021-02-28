@@ -25,10 +25,8 @@ I am Ismail Abdbullah 🙋, a Software Engineer, psychologist, Mathematician:
 [instagram]: https://www.linkedin.com/in/abdullah-ismail-183a001a1/
 [linkedin]: https://www.instagram.com/abdullahismail649/?hl=en
 
-### Technologies
-<svg height="30" width="100" xmlns:xlink=“http://www.w3.org/1999/xlink">
- <a xlink:href="www.medium.com/p/f254e0f6b71a" target="__blank"><text x="0" y="15" fill="black">My Blog!</text></a>
-</svg>
+
+
 
 <!--
 **Abdullah-ohida/Abdullah-ohida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
